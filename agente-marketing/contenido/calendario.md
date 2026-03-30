@@ -78,8 +78,65 @@ Foto cálida y real: una persona joven frente a una laptop en un espacio domést
 
 ---
 
+### VIERNES — LinkedIn + Instagram (Audiencia: ambas)
+
+**Formato:** Puente narrativo — el mismo momento contado desde dos lados
+**Tema:** Una videollamada. Dos mundos. Una oportunidad.
+
+---
+
+**Texto completo (LinkedIn):**
+
+Una startup en Madrid necesitaba un desarrollador fullstack.
+Su equipo ya estaba al límite. El proceso de selección local llevaba meses sin resultado.
+
+A 9.000 km, en Medellín, Valentina llevaba semanas aplicando a posiciones que no llegaban.
+
+Los conectamos.
+
+Primera llamada: 45 minutos. El CTO de Madrid dijo que era exactamente lo que buscaban. Valentina dijo que era la oportunidad que había estado esperando.
+
+Hoy llevan 8 meses trabajando juntos. El equipo creció. Valentina creció. La startup lanzó su producto.
+
+Esto es lo que hacemos en Hutrit.
+No movemos personas. Conectamos talento con oportunidad — sin importar en qué ciudad del mapa estén.
+
+¿Tu empresa tiene una posición técnica abierta? Cuéntanos.
+
+**Hashtags LinkedIn:**
+#TalentoTech #RemoteWork #ReclutamientoTech #LATAM #España #HistoriasReales #Hutrit #EquipoRemoto #StartupSpain #TechTalent
+
+---
+
+**Texto completo (Instagram):**
+
+Una llamada cambió todo.
+
+Ella en Medellín. Él en Madrid.
+Uno buscaba talento. La otra buscaba oportunidad.
+
+Los dos encontraron lo que necesitaban.
+
+En Hutrit creemos que la mejor persona para ese puesto en tu empresa puede estar en otro continente — y que eso no debería ser un obstáculo.
+
+¿Eres dev, diseñador/a o especialista tech en LATAM?
+¿Tienes una empresa en España con una posición sin cubrir?
+
+🔗 Link en bio — para los dos.
+
+**Hashtags Instagram:**
+#Hutrit #TrabajoRemoto #TalentoLATAM #EmpresasEspaña #ConexiónReal #DevsLATAM #RemoteJobs #TechLatam #PuenteDigital #OportunidadSinFronteras
+
+---
+
+**Imagen ideal (aplica a ambas redes):**
+Imagen dividida en dos mitades simétricas: izquierda con ambiente cálido latinoamericano (luz natural, planta, desk casero), derecha con ambiente de oficina moderna española (minimalista, tonos fríos). Al centro, una línea de conexión o ícono de videollamada. Transmite espejo y complemento, no diferencia. Logo Hutrit centrado en la línea divisoria.
+
+---
+
 ### Notas de la semana
 - Publicar post LinkedIn el lunes a las 8:30h (hora España)
 - Publicar post Instagram el miércoles entre 18:00–20:00h (hora Colombia/Argentina)
-- Monitorear comentarios primeras 2 horas para responder y activar el algoritmo
+- Publicar post doble el viernes a las 9:00h (LinkedIn) y 19:00h (Instagram)
+- Monitorear comentarios primeras 2 horas en cada post para responder y activar el algoritmo
 - Guardar métricas el viernes para el reporte semanal
